@@ -5,7 +5,7 @@ int main()
 {
     int N,Q,m,k,max,tm,i;
     cin>>N;
-    int *A = new int[N+1];
+    int *A = new int[N];
     for(i=1;i<=N;++i)
         cin>>A[i];
     max=A[1];
