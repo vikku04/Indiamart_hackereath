@@ -1,3 +1,6 @@
+/*About hackerearth - HackerEarth provides enterprise software that helps organisations with their technical hiring needs. 
+  HackerEarth is used by organizations for technical skill assessment and remote video interviewing. */
+
 #include <bits/stdc++.h>
 using namespace std;
 
